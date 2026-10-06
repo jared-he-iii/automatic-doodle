@@ -1,0 +1,15 @@
+paper_type: undergraduate thesis
+discipline: history education
+language: zh-CN
+research_question: 古塔作为实物史料能够提供哪些历史信息，以及这些信息如何转化为中学历史课堂中的史料实证任务？
+title: 古塔实物史料在中学历史教学中的应用研究——以典型历代古塔与云南古塔为例
+citation_policy:
+  verify_existence: true
+  verify_claim_support: true
+  never_invent: true
+evidence_priority:
+  - primary/material
+  - official_archaeological_or_cultural_heritage
+  - peer_reviewed_research
+  - textbooks/curriculum_documents
+  - general_web_sources
